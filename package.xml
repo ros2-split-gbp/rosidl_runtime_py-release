@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
   <name>rosidl_runtime_py</name>
-  <version>0.8.0</version>
+  <version>0.8.1</version>
   <description>Runtime utilities for working with generated ROS interfaces in Python.</description>
   <maintainer email="jacob@openrobotics.org">Jacob Perron</maintainer>
   <license>Apache License 2.0</license>
@@ -18,6 +18,8 @@
   <test_depend>ament_pep257</test_depend>
   <test_depend>ament_xmllint</test_depend>
   <test_depend>python3-pytest</test_depend>
+  <test_depend>std_msgs</test_depend>
+  <test_depend>std_srvs</test_depend>
   <test_depend>test_msgs</test_depend>
 
   <export>
