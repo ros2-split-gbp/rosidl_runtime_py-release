@@ -1,3 +1,26 @@
+## rosidl_runtime_py (foxy) - 0.9.0-1
+
+The packages in the `rosidl_runtime_py` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy rosidl_runtime_py` on `Wed, 29 Apr 2020 16:19:51 -0000`
+
+The `rosidl_runtime_py` package was released.
+
+Version of package(s) in repository `rosidl_runtime_py`:
+
+- upstream repository: https://github.com/ros2/rosidl_runtime_py.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.9.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.17`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_runtime_py (eloquent) - 0.8.2-1
 
 The packages in the `rosidl_runtime_py` repository were released into the `eloquent` distro by running `/home/mjcarroll/.local/bin/bloom-release --ros-distro eloquent rosidl_runtime_py` on `Fri, 08 Nov 2019 21:41:09 -0000`
