@@ -1,0 +1,12 @@
+Source: ros-galactic-rosidl-runtime-py
+Section: misc
+Priority: optional
+Maintainer: Jacob Perron <jacob@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest, ros-galactic-ament-copyright, ros-galactic-ament-flake8, ros-galactic-ament-pep257, ros-galactic-ament-xmllint, ros-galactic-std-msgs, ros-galactic-std-srvs, ros-galactic-test-msgs, ros-galactic-ros-workspace, python3-all, python3-setuptools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-rosidl-runtime-py
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, python3-numpy, python3-yaml, ros-galactic-rosidl-parser, ros-galactic-ros-workspace
+Description: Runtime utilities for working with generated ROS interfaces in Python.
