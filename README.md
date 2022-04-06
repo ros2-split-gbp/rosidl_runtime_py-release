@@ -1,3 +1,26 @@
+## rosidl_runtime_py (rolling) - 0.9.2-1
+
+The packages in the `rosidl_runtime_py` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rosidl_runtime_py` on `Wed, 06 Apr 2022 18:08:56 -0000`
+
+The `rosidl_runtime_py` package was released.
+
+Version of package(s) in repository `rosidl_runtime_py`:
+
+- upstream repository: https://github.com/ros2/rosidl_runtime_py.git
+- release repository: https://github.com/ros2-gbp/rosidl_runtime_py-release.git
+- rosdistro version: `0.9.1-3`
+- old version: `0.9.1-3`
+- new version: `0.9.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_runtime_py (rolling) - 0.9.1-3
 
 The packages in the `rosidl_runtime_py` repository were released into the `rolling` distro by running `/home/parallels/.local/bin/bloom-release -r rolling rosidl_runtime_py` on `Mon, 28 Mar 2022 22:37:46 -0000`
