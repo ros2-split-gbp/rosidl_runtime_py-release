@@ -1,3 +1,26 @@
+## rosidl_runtime_py (humble) - 0.9.3-1
+
+The packages in the `rosidl_runtime_py` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release -r humble -y rosidl_runtime_py` on `Mon, 07 Nov 2022 17:39:37 -0000`
+
+The `rosidl_runtime_py` package was released.
+
+Version of package(s) in repository `rosidl_runtime_py`:
+
+- upstream repository: https://github.com/ros2/rosidl_runtime_py.git
+- release repository: https://github.com/ros2-gbp/rosidl_runtime_py-release.git
+- rosdistro version: `0.9.2-2`
+- old version: `0.9.2-2`
+- new version: `0.9.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_runtime_py (rolling) - 0.11.0-1
 
 The packages in the `rosidl_runtime_py` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rosidl_runtime_py` on `Tue, 13 Sep 2022 19:38:05 -0000`
